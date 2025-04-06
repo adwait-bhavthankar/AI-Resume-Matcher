@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+pdfplumber
+pandas
+reportlab
+jinja2
+requests
+PyMuPDF
