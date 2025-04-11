@@ -3,7 +3,7 @@ import requests
 def query_ollama(prompt):
     url = "http://localhost:11434/api/generate"
     payload = {
-        "model": "phi",
+        "model": "mistral",
         "prompt": prompt,
         "stream": False
     }
