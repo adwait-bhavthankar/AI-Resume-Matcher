@@ -1,4 +1,4 @@
-# 🧠 AI Resume Matcher with Streamlit + Ollama (Mistral)
+# 🧠 MatchGenie – AI-Powered Resume Matcher (Ollama + Mistral)
 
 This project is a smart, AI-powered resume screening tool that allows recruiters or hiring teams to compare resumes against job descriptions. It uses **local LLM inference via Ollama** running the `phi` model, providing fast and private resume analysis without sending data to the cloud.
 
